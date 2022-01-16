@@ -17,3 +17,4 @@ capitalloss	-- A decrease in the value of a capital asset
 hoursperweek -- number of hours work per week	
 native -- Native of an individual
 Salary -- salary of an individual
+
